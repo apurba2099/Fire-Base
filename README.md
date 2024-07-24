@@ -1,4 +1,4 @@
-<h1> firebase node install npm
+<h3> firebase node install npm
 > npm init -y
 
 then web-pack installation
@@ -15,4 +15,4 @@ npm webpack-dev-server(jus like live server install)
 
 when ever i start a project 
 > npm run dev
-</h1>
+</h3>
